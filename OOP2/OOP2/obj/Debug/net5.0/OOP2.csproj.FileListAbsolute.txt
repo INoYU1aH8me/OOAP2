@@ -1,0 +1,16 @@
+D:\univer\OOP2023\OOP2\OOP2\bin\Debug\net5.0\OOP2.exe
+D:\univer\OOP2023\OOP2\OOP2\bin\Debug\net5.0\OOP2.deps.json
+D:\univer\OOP2023\OOP2\OOP2\bin\Debug\net5.0\OOP2.runtimeconfig.json
+D:\univer\OOP2023\OOP2\OOP2\bin\Debug\net5.0\OOP2.runtimeconfig.dev.json
+D:\univer\OOP2023\OOP2\OOP2\bin\Debug\net5.0\OOP2.dll
+D:\univer\OOP2023\OOP2\OOP2\bin\Debug\net5.0\ref\OOP2.dll
+D:\univer\OOP2023\OOP2\OOP2\bin\Debug\net5.0\OOP2.pdb
+D:\univer\OOP2023\OOP2\OOP2\obj\Debug\net5.0\OOP2.csprojAssemblyReference.cache
+D:\univer\OOP2023\OOP2\OOP2\obj\Debug\net5.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\OOP2023\OOP2\OOP2\obj\Debug\net5.0\OOP2.AssemblyInfoInputs.cache
+D:\univer\OOP2023\OOP2\OOP2\obj\Debug\net5.0\OOP2.AssemblyInfo.cs
+D:\univer\OOP2023\OOP2\OOP2\obj\Debug\net5.0\OOP2.csproj.CoreCompileInputs.cache
+D:\univer\OOP2023\OOP2\OOP2\obj\Debug\net5.0\OOP2.dll
+D:\univer\OOP2023\OOP2\OOP2\obj\Debug\net5.0\ref\OOP2.dll
+D:\univer\OOP2023\OOP2\OOP2\obj\Debug\net5.0\OOP2.pdb
+D:\univer\OOP2023\OOP2\OOP2\obj\Debug\net5.0\OOP2.genruntimeconfig.cache
